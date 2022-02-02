@@ -15,8 +15,8 @@ To write a program to find the exponentiation of a number.
 ```
 /*
 Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber:
+Developed by:Shyam Naveen Raj M 
+RegisterNumber:21005660
 def expo(x):
     for i in range(1):
         x = x ** 2
